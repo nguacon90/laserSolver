@@ -9,9 +9,9 @@ the laser beam shines on.
 
 For example case: `10 x 10`
 
-* n = 10, laser: 0 0 RIGHT, toa do nhu hinh
+* n = 10, laser: 0 0 RIGHT
 
-`- - - - - - - - - \`
+`-> - - - - - - - - \`
 
 `/ - - - - - - - \ -`
 
